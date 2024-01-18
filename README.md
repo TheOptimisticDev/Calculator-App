@@ -5,7 +5,7 @@ A simple and responsive calculator web application built with HTML, CSS, and Jav
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#Screenshot)
+- [Screenshot](#Screenshot)
 - [Installation](#installation)
 - [Usage](#usage)
 - [How it Works](#how-it-works)
