@@ -11,6 +11,8 @@ A simple and responsive calculator web application built with HTML, CSS, and Jav
 - [How it Works](#how-it-works)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
+- [Host](#hosted-on-netlify)
+- [Attributions](#attributions)
 - [License](#license)
 
 ## Features
