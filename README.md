@@ -55,6 +55,18 @@ The calculator performs basic arithmetic operations and displays the result on t
 4. Push to the branch: git push origin feature-name.
 5. Submit a pull request.
 
+## Hosted on Netlify
+
+This calculator app is hosted on [Netlify](https://www.netlify.com/). You can access the live version of the app [here](https://mfumu-calculator.netlify.app).
+
+## Attributions
+
+- Font Awesome Icons: Icons used in this project are provided by [Font Awesome](https://fontawesome.com/), with attribution to [Font Awesome](https://fontawesome.com/) required as per their license.
+
+- Favicon: The favicon for this app was generated using [favicon.io](https://favicon.io/).
+
+- CDN: This project uses the [Cloudflare CDN](https://www.cloudflare.com/) for content delivery, ensuring a faster and more reliable user experience.
+
 ## License
 
 - This project is licensed under the MIT License - see the LICENSE file for details.
