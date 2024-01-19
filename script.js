@@ -1,23 +1,24 @@
 var operators = ["+", "-", "/", "*"];
-
 var box = null;
 var last_operation_history = null;
 var operator = null;
 var equal = null;
 var dot = null;
-
 var firstNum = true;
-
 var numbers = [];
 var operator_value;
 var last_button;
 var calc_operator;
-
 var total;
-
 var key_combination = []
-function button_number(button) {
 
+var audio = new Audio('./assets/click.wav');
+
+function playSound() {
+    audio.play();
+}
+
+function button_number(button) {
     operator = document.getElementsByClassName("operator");
     box = document.getElementById("box");
     last_operation_history = document.getElementById("last_operation_history");
@@ -160,7 +161,7 @@ function button_number(button) {
             }
         }
     }
-
+    playSound();
 }
  // highlight operator button when selected
 function showSelectedOperator(){

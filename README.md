@@ -65,6 +65,8 @@ This calculator app is hosted on [Netlify](https://www.netlify.com/). You can ac
 
 - Font Awesome Icons: Icons used in this project are provided by [Font Awesome](https://fontawesome.com/), with attribution to [Font Awesome](https://fontawesome.com/) required as per their license.
 
+- Sound Effect: Sound effect used in this project was obtained from [MixKit](https://mixkit.co/free-sound-effects/click/).
+
 - Favicon: The favicon for this app was generated using [favicon.io](https://favicon.io/).
 
 - CDN: This project uses the [Cloudflare CDN](https://www.cloudflare.com/) for content delivery, ensuring a faster and more reliable user experience.
